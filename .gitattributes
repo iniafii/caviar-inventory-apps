@@ -1,0 +1,11 @@
+# Atur semua file teks untuk menggunakan LF
+* text=auto
+
+# Atur file JSON untuk menggunakan LF
+*.json text eol=lf
+
+# Atur file JavaScript untuk menggunakan LF
+*.js text eol=lf
+
+# Atur file Markdown untuk menggunakan LF
+*.md text eol=lf
